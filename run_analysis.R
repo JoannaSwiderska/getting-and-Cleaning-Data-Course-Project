@@ -1,8 +1,5 @@
 library(plyr)
 
-setwd("C:/Users/swiderek/Desktop/Coursera/Getting_and_Cleaning_Data_Course_Project/getdata%2Fprojectfiles%2FUCI HAR Dataset/UCI HAR Dataset")
-
-
 ## 1.Merge the training and the test sets to create one data set
 
 #Loading data files
